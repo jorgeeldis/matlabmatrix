@@ -2,6 +2,7 @@
 
 > Matlab Matrix is a simple project where we try to solve a problem in octave or matlab, for more information search stoacommunity.com
 
+![keep shining (1)](https://user-images.githubusercontent.com/73083341/129433646-4fcc8bbc-7db9-404b-8186-17fdbc90140f.png)
 
 ## Meta
 
